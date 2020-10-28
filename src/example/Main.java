@@ -19,8 +19,8 @@ public class Main {
 
         HomePage homePage=new HomePage(maxNumOfPlayers);
         homePage.setDefaultCloseOperation(WindowConstants.EXIT_ON_CLOSE);
-        homePage.setSize(800,800);
-        homePage.setTitle("Snakes and Ladders");
+        homePage.setSize(1200,1200  );
+        homePage.setTitle("Random Adventure");
         homePage.setVisible(true);
         homePage.setEnabled(true);
 
